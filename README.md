@@ -174,6 +174,7 @@ metrics[['accuracy','val_accuracy']].plot()
 print("VIGNESH KUMARAN N S  212222230171")
 metrics[['loss','val_loss']].plot()
 
+print("VIGNESH KUMARAN N S  212222230171")
 i = 20
 p = model.predict(np.array([X_test[i]]))
 p = np.argmax(p, axis=-1)
