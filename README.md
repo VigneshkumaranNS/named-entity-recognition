@@ -31,10 +31,8 @@ We build the model using Input, Embedding, Bidirectional LSTM, Spatial Dropout, 
 We compile the model to fit the train sets and validation sets.
 
 ## PROGRAM
-```
 DEVELOPED BY : VIGNESH KUMARAN N S
 REGISTER NO: 212222230171
-```
 ```PYTHON
 import matplotlib.pyplot as plt
 import pandas as pd
